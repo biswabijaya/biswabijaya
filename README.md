@@ -1,11 +1,19 @@
-### Hi there 👋 I am a Full Stack Product Developer | Developed and mentored 30+ websites/apps | 3m+ lines of code
-
+### Hi there 👋 I am a Full Stack Product Developer
+<br>
+### Developed and mentored 30+ websites/apps | 3m+ lines of code
+<br>
 🔭 I’m currently working on Frontend(React Redux Hooks NextJS) Backend(HapiJS GraphQL MongoDB) Stack deployed on AWS EKS 
+<br>
 🌱 I’m currently learning DevOps and Test Diven Development
+<br>
 👯 I’m looking to collaborate on Deno 
+<br>
 💬 Ask me about Javascript jQuery React, CSS3 Bootstrap Tailwind Material UI, PHP Node Java, Mongo Dynamo, Redis
+<br>
 📫 How to reach me: +1 802 267 4946 / me@biswabijaya.com
+<br>
 😄 Pronouns: He/Him
+<br>
 ⚡ Fun fact: ...
 
 ## My Tech Stack
