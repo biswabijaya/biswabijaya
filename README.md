@@ -1,10 +1,9 @@
 ### Hi there 👋 
 
-## I am a Full Stack Product Developer
-## Developed and mentored 30+ websites/apps | 3m+ lines of code
+#### I am a Full Stack Product Developer
+#### Developed and mentored 30+ websites/apps | 3m+ lines of code
 
-
-🔭 I’m currently working on Frontend(React Redux Hooks NextJS) Backend(HapiJS GraphQL MongoDB) Stack deployed on AWS EKS 
+🔭 I’m currently working on Frontend(React Redux NextJS) Backend(HapiJS GraphQL MongoDB) Stack deployed on AWS EKS 
 <br>
 🌱 I’m currently learning DevOps and Test Diven Development
 <br>
