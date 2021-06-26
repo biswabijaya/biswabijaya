@@ -11,7 +11,7 @@
 <br>
 💬 Ask me about Javascript jQuery React, CSS3 Bootstrap Tailwind Material UI, PHP Node Java, Mongo Dynamo, Redis
 <br>
-📫 How to reach me: +1 802 267 4946 / me@biswabijaya.com
+📫 How to reach me: +1 (802) 267 4946 / +91 9090374605 / me@biswabijaya.com
 <br>
 😄 Pronouns: He/Him
 <br>
