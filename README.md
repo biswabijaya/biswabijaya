@@ -15,7 +15,7 @@
 <br>
 😄 Pronouns: He/Him
 <br>
-⚡ Fun fact: ...
+<!-- ⚡ Fun fact: ... -->
 
 ## My Tech Stack
 <br>
