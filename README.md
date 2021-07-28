@@ -5,9 +5,9 @@
 
 🔭 I’m currently working on Frontend(React Redux NextJS) Backend(HapiJS GraphQL MongoDB) Stack deployed on AWS EKS 
 <br>
-🌱 I’m currently learning DevOps and Test Diven Development
+🌱 I’m currently learning DEX DeFi on Etherium Blockchain
 <br>
-👯 I’m looking to collaborate on Deno 
+👯 I’m looking to collaborate on DeFi
 <br>
 💬 Ask me about Javascript jQuery React, CSS3 Bootstrap Tailwind Material UI, PHP Node Java, Mongo Dynamo, Redis
 <br>
