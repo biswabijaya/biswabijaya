@@ -1,87 +1,105 @@
-### Hi there 👋 
+### Hi there 👋 I'm Biswabijaya Samal (ବିଶ୍ୱବିଜୟ ସାମଲ)  
+**"One Who Has Conquered Worlds Through Code"**  
 
-#### I am a Full Stack Product Developer
-#### Developed and mentored 30+ websites/apps | 3m+ lines of code
+---
 
-🔭 I’m currently working on Frontend(React Redux NextJS) Backend(HapiJS GraphQL MongoDB) Stack deployed on AWS EKS 
-<br>
-🌱 I’m currently learning DEX DeFi on Etherium Blockchain
-<br>
-👯 I’m looking to collaborate on DeFi
-<br>
-💬 Ask me about Javascript jQuery React, CSS3 Bootstrap Tailwind Material UI, PHP Node Java, Mongo Dynamo, Redis
-<br>
-📫 How to reach me: +966 54 773 0646 / +91 9090374605 / me@biswabijaya.com
-<br>
-😄 Pronouns: He/Him
-<br>
-<!-- ⚡ Fun fact: ... -->
+### 🌍 Cultural Compass
+*Born from the lands of Odisha (India), carrying my name's legacy -  
+"Bijaya" (Victory) × "Biswa" (World) = Eternal pursuit of impactful creation*  
+**ॐ शान्तिः** *(Seeking balance in chaos through technology)*
 
-## My Tech Stack
-<br>
-<table>
-<thead>
-<td>
-	<b>Backend skills</b>
-</td>
-<td>
-	<b>Frontend Skills</b>
-</td>
-<td>
-	<b>Database</b>
-</td>
-</thead>
-<tr>
-<td>
-	<br>
+---
 
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjX5KbX9VBTfUyBj0io1gkXkBFXQe2fKKYXw&usqp=CAU"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxE-rx44c5yJNQmo7dGvSWcRxVmiRHTu7Y-w&usqp=CAU"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS1jsAm8BRk5jZmU5VFEtCTBZQ7II-h2g9Kg&usqp=CAU"></code>
-<br>
+🚀 **Software Architect** | ⚡ 5Y+ Industry Exp & 30+ websites/apps | 🖥️ 3m+ lines of code shipped | 🧠 10Y+ Research Depth | ⌛ Time Alchemist
 
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3BJCUaAko_zjufh6UIDOEdBQZ8qgg0fIWwA&usqp=CAU"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwA5YjmHbQtzMqCC5iEiugMjzUfkysMLOxTw&usqp=CAU"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyGiYfN3iDJoXW0yvYSNWYFKofvrmf0oITCA&usqp=CAU"></code>
-<br>
+---
 
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST7bzbXFWfirHTw1hVykMb5d3zpI8W3HPt9A&usqp=CAU"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNt4zOsox3EsJCiG9ajmqqku-HgXUryWvDXA&usqp=CAU"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3uy9pW5seuaHgNcT9iwQF5sVQDslBGa7Glg&usqp=CAU"></code>
-<br>
+### ⏳ My Time Formula
+**"24 hours is infinite when sliced with purpose"**  
+🕗 **8h** - Building production systems (Professional Craft)  
+🔍 **4h** - Market analysis & investment experiments  
+💡 **4h** - Open source contributions & tech exploration  
+🌙 **8h** - Recharge & personal mastery  
 
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwMFcJQEyPckfMxkdHYLhPA5oEWnZNCkH44Q&usqp=CAU"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_tVqCOJhNQG_7U9X8j3OXNvVrU2f8Jp-FUQ&usqp=CAU"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGrMytxahRQyU9HhjSmrIKXMh_cJc7CshROw&usqp=CAU"></code>
-<br>
-</td>
-<td>
-	<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<br>
+---
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<br>
+### 🛠️ Current Stack & Projects
+**🔭 Currently Building With**  
+Frontend: React | Next.js | Remix | WebGL  
+Backend: Next.js API Routes | Remix Loaders | GraphQL | MongoDB  
+Platforms: Shopify Plus | Webflow Enterprise | Bubble Scalable Apps
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<br>
-</td>
-<td>
+**🌱 Learning & Exploring**  
+🛒 Server Components Architecture  
+🌐 Edge Network Optimization  
+🤖 AI-Driven Fullstack Patterns
+🛡️ Smart Contracts | ⛓️ Ethereum DEX | 🤑 DeFi Protocols  
+🧠 Dynamic Programming | 🧮 Advanced Data Structures  
+🖥️ WebAssembly (WASM) | 🎮 WebGL Graphics  
+☁️ GCP Architecture | 🕹️ Go Performance Optimization
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
-<br>
-</td>
-</tr>
+---
 
-</table>
+### 💻 Tech Stack
+
+#### **Frontend Ecosystem**  
+React | Remix | Web Components  
+Three.js | GSAP | Framer Motion  
+Shopify Hydrogen | Next.js App Router
+
+#### **Fullstack Frameworks**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+
+#### **Website Builders**  
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white)
+![Webflow](https://img.shields.io/badge/-Webflow-4353FF?logo=webflow&logoColor=white)
+![Bubble](https://img.shields.io/badge/-Bubble-000?logo=bubble&logoColor=00C7B7)
+
+#### **Languages & Foundations**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+
+#### **Automation Arsenal**
+**DPA:**  
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-000000?logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/-Make-1A1A1A?logo=integromat&logoColor=white)
+![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?logo=airtable&logoColor=white)
+
+**RPA:**  
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoft-powerautomate&logoColor=white)
+![UiPath](https://img.shields.io/badge/-UiPath-F05F30?logo=uipath&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/-Automation%20Anywhere-FF6B00)
+
+#### **Data Analytics**  
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Retool](https://img.shields.io/badge/-Retool-3666FF)
+📈 Advanced Sheets (QUERY, IMPORTRANGE, Apps Script)
 
 
+---
 
+### 🧠 Core Competencies
+- Modern Fullstack Architecture
+- Progressive Enhancement Strategies
+- Commerce-optimized Frontends (Shopify Hydrogen)
+- Hybrid Rendering Patterns (SSR/ISR/CSR)
+- Edge Network Deployments
+
+---
+
+### 🤝 Collaboration Interests
+- Hybrid Architectures
+- Headless Commerce Implementations
+- WebGL Integration in Modern Frameworks
+- Transitioning Legacy Systems to Remix
+- Biotech & Automation
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=biswabijaya&theme=dark)](https://git.io/streak-stats)
